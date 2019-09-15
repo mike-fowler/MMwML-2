@@ -13,8 +13,9 @@ The chart displayed shows the actual price over the course of August and the 3 m
 
 Results
 
+_____________________________________________________________________
 Price predictions made for the end of the month on the 23rd of August
-----------------------------------------------------------------------
+_____________________________________________________________________
 The Actual price at the end of August:    $167.5100
 
 The svr_rbf predicted price:              $139.3750
@@ -22,7 +23,7 @@ The svr_rbf predicted price:              $139.3750
 The svr_poly predicted price:             $188.7270
 
 The lin_reg predicted price:              $168.3800
-----------------------------------------------------------------------
+_____________________________________________________________________
 
 
 Conclusion
